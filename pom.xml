@@ -12,7 +12,6 @@
 		<url>https://github.com/kevinsawicki/github-maven-example/issues</url>
 		<system>GitHub Issues</system>
 	</issueManagement>
-
 	<licenses>
 		<license>
 			<name>MIT License</name>
